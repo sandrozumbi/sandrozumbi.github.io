@@ -1,0 +1,5 @@
+{
+  "name": "UPA Pediátricaa",
+  "description": "Sistema de gestão hospitalar pediátrica com controle de antibióticos e regulação, integrado ao MongoDB Atlas.",
+  "requestFramePermissions": []
+}
